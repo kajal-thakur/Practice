@@ -1,1 +1,4 @@
 difference between fetch and pull
+git push and git push origin
+how do i know the diff command to two different files
+stash
